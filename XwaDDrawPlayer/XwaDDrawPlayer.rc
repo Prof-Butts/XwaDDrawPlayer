@@ -139,8 +139,8 @@ END
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 2025,0829,2307,43860
- PRODUCTVERSION 2025,0829,2307,43860
+ FILEVERSION 2025,0829,2319,26045
+ PRODUCTVERSION 2025,0829,2319,26045
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -157,12 +157,12 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "Jérémy Ansel"
             VALUE "FileDescription", "XwaDDrawPlayer"
-            VALUE "FileVersion", "2025.0829.2307.43860"
+            VALUE "FileVersion", "2025.0829.2319.26045"
             VALUE "InternalName", "XwaDDrawPlayer.exe"
             VALUE "LegalCopyright", "Copyright (C) Jérémy Ansel 2025"
             VALUE "OriginalFilename", "XwaDDrawPlayer.exe"
             VALUE "ProductName", "XwaDDrawPlayer"
-            VALUE "ProductVersion", "2025.0829.2307.43860"
+            VALUE "ProductVersion", "2025.0829.2319.26045"
         END
     END
     BLOCK "VarFileInfo"
